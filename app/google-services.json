@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815552044760",
+    "project_id": "appfirebaseati2",
+    "storage_bucket": "appfirebaseati2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815552044760:android:d2035dded2c28ed40301ad",
+        "android_client_info": {
+          "package_name": "com.example.aulapamfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEg1Qxlw3XK6KI2URh7gu9ZhfM4JNX_Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
